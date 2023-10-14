@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+font-family: "Rubik";
+  }
+  
+  img {
+    display: flex;
+    max-width: 40vw;
+    }
+  
+  .cat-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+  }
+  
+
